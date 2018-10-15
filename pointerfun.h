@@ -1,5 +1,5 @@
 #include <stdio.h>
 
-void print_integers(int int_value, int* int_pointer);
+void print_integers(int value, int* pointer);
 
-void change_integers(int int_value, int* int_pointer);
+void change_integers(int value, int* pointer);
